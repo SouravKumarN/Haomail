@@ -52,7 +52,7 @@ public class lbtest extends JPanel implements ActionListener{
 	}
 	@Override
 	public void actionPerformed(ActionEvent ae) {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub.
 		Object src = ae.getSource();
 		if(src==inb)
 		{
