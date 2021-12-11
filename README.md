@@ -1,2 +1,2 @@
 # Haomail 
-Amn email client used to easily send and receive emails using Gmail API.
+Aanoonemn email client used to easily send and receive emails using Gmail API.
